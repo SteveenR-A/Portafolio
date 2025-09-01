@@ -47,7 +47,6 @@ Aunque actualmente no uso un lenguaje en específico, he realizado proyectos uti
 
 ## 🤝 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/TU-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:reyesandrow@gmail.com)
 
 ---
