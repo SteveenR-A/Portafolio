@@ -34,7 +34,7 @@ Aunque actualmente no uso un lenguaje en específico, he realizado proyectos uti
 | Proyecto                  | Descripción                                                                 | Tecnologías                 | Enlace     |
 |---------------------------|-----------------------------------------------------------------------------|-----------------------------|------------|
 | **Dotfiles de Hyprland**  | Primer proyecto de dotfiles y configuración de Hyprland en Arch Linux        | Shell, Configuración Hyprland| [Ver Repo](https://github.com/SteveenR-A/Dockerfile.git) |
-| **Programación Visual**   | Proyectos de Windows Forms solicitados en mis clases de programación visual | C#, Windows Forms           | [Ver Repo](https://github.com/SteveenR-A/Programacion_visual.git) |
+| **Programación Visual**   | Proyectos de Windows Forms solicitados en mis clases de programación visual | C#, Windows Forms           | [Ver Repo](https://github.com/SteveenR-A/WIndows-form.git) |
 
 ---
 
